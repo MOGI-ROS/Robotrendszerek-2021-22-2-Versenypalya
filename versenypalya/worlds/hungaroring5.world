@@ -110,7 +110,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>model://hungaroring/meshes/track.dae</uri>
+              <uri>file:///home/david/homework22_ws/src/Robotrendszerek-2021-22-2-Versenypalya/versenypalya/meshes/hungaroring/meshes/track.dae</uri>
               <scale>0.3 0.3 0.5</scale>
             </mesh>
           </geometry>
@@ -123,7 +123,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>model://hungaroring/meshes/track.dae</uri>
+              <uri>file:///home/david/homework22_ws/src/Robotrendszerek-2021-22-2-Versenypalya/versenypalya/meshes/hungaroring/meshes/track.dae</uri>
               <scale>0.3 0.3 0.5</scale>
             </mesh>
           </geometry>
